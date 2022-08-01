@@ -18,6 +18,5 @@ A project,  assignment for Delta-x
  
  
  <p align="center">
-  <img src="./screenshots/1.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="900">
+  <img src="./screenshots/1.png" width="500" title="hover text">
 </p>
