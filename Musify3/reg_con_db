@@ -1,0 +1,37 @@
+<?php 
+$error_message = "";$success_message = "";
+
+// Register user
+if(isset($_POST['btnsignup'])){
+   $fname = trim($_POST['fname']);
+   $lname = trim($_POST['lname']);
+   $email = trim($_POST['email']);
+   $password = trim($_POST['password']);
+   $confirmpassword = trim($_POST['confirmpassword']);
+
+   $isValid = true;
+
+   // Check fields are empty or not
+   if($fname == '' || $lname == '' || $email == '' || $password == '' || $confirmpassword == ''){
+     $isValid = false;
+     $error_message = "Please fill all fields.";
+   }
+
+   // Check if confirm password matching or not
+
+   // Check if Email-ID is valid or not
+
+   }
+
+   // Insert records
+   if($isValid){
+     $insertSQL = "INSERT INTO users(fname,lname,email,password ) values(?,?,?,?)";
+     $stmt = $con->prepare($insertSQL);
+     $stmt->bind_param("ssss",$fname,$lname,$email,$password);
+     $stmt->execute();
+     $stmt->close();
+
+     $success_message = "Account created successfully.";
+   }
+}
+?>
