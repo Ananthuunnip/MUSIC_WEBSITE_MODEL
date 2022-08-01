@@ -14,7 +14,7 @@ A project,  assignment for Delta-x
  
  <h1> introducing the structure of the website</h1>
 
- <h4>login section</h4>
+ <h3>Login Section</h3>
  
  
  <p align="center">
@@ -22,9 +22,17 @@ A project,  assignment for Delta-x
 </p>
 
 
-<h4>home page</h4>
+<h3>Home Page</h3>
  
  
  <p align="center">
   <img src="./screenshots/2.png" width="800" title="hover text">
+</p>
+
+
+<h3>Song Add Window</h3>
+ 
+ 
+ <p align="center">
+  <img src="./screenshots/3.png" width="800" title="hover text">
 </p>
