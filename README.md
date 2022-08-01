@@ -18,5 +18,5 @@ A project,  assignment for Delta-x
  
  
  <p align="center">
-  <img src="./screenshots/1.png" width="500" title="hover text">
+  <img src="./screenshots/1.png" width="800" title="hover text">
 </p>
