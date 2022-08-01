@@ -20,3 +20,11 @@ A project,  assignment for Delta-x
  <p align="center">
   <img src="./screenshots/1.png" width="800" title="hover text">
 </p>
+
+
+<h4>home page</h4>
+ 
+ 
+ <p align="center">
+  <img src="./screenshots/2.png" width="800" title="hover text">
+</p>
