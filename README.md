@@ -52,3 +52,14 @@ A project,  assignment for Delta-x
  <p align="center">
   <img src="./screenshots/5.png" width="800" title="hover text">
 </p>
+
+
+
+
+
+
+
+
+
+
+<h5> first of all thankyou for  giving the opportunity. yes the website is not completed but i try my best in a short time </h5>
